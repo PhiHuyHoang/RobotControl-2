@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nativescript-vue": "^2.4.0",
     "tns-core-modules": "^6.0.0"
   },
